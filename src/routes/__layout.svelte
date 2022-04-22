@@ -9,7 +9,6 @@
       };
 
       return {
-        props: updatedStuff,
         stuff: updatedStuff,
       };
     } catch (error) {
